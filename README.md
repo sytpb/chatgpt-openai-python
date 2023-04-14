@@ -19,7 +19,7 @@ This project helps you to quickly build a WebApp using APIs of ChatGPT, There ar
 **Openai** <br>
 https://platform.openai.com/
 
-**Gradio**
+**Gradio** <br>
 https://gradio.app/docs/#chatbot
 
 
