@@ -8,7 +8,7 @@
 This project helps you to quickly build a WebApp using APIs of ChatGPT, There are serval demo files to show how to build up step by step .  
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/12178686/231933050-36a50129-5a1e-4d0f-a844-4bd46897f68e.png" width="300px" height="500px">
+    <img src="https://user-images.githubusercontent.com/12178686/231933050-36a50129-5a1e-4d0f-a844-4bd46897f68e.png" width="300px" height="400px">
 </div>
 
 
