@@ -14,9 +14,9 @@ This project helps you to quickly build a WebApp using APIs of ChatGPT, There ar
 
 # Built With
 
-**Python**
-**pip**
-**Openai**
+**Python** <br>
+**pip** <br>
+**Openai** <br>
 https://platform.openai.com/
 
 **Gradio**
