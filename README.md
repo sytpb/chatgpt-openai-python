@@ -1,12 +1,15 @@
 # About The Project
 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/12178686/231932692-40fcedf4-343c-4c96-9f1f-eb39fef749df.png" width="600px">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/12178686/231932692-40fcedf4-343c-4c96-9f1f-eb39fef749df.png" width="600px">
 </div>
 
 This project helps you to quickly build a WebApp using APIs of ChatGPT, There are serval demo files to show how to build up step by step .  
 
-<img src="https://user-images.githubusercontent.com/12178686/231933050-36a50129-5a1e-4d0f-a844-4bd46897f68e.png" width="300px" height="500px">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/12178686/231933050-36a50129-5a1e-4d0f-a844-4bd46897f68e.png" width="300px" height="500px">
+</div>
 
 
 # Built With
