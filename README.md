@@ -1,4 +1,4 @@
-#About The Project
+# About The Project
 
 ![image](https://user-images.githubusercontent.com/12178686/231932692-40fcedf4-343c-4c96-9f1f-eb39fef749df.png)
 
@@ -8,7 +8,7 @@ This project helps you to quickly build a WebApp using APIs of ChatGPT, There ar
 ![image](https://user-images.githubusercontent.com/12178686/231933050-36a50129-5a1e-4d0f-a844-4bd46897f68e.png)
 
 
-#Built With
+# Built With
 
 **Python**
 **pip**
@@ -19,7 +19,7 @@ https://platform.openai.com/
 https://gradio.app/docs/#chatbot
 
 
-#Prerequisites
+# Prerequisites
 
 A ChatGPT account and applying an API KEY
 
@@ -30,7 +30,7 @@ https://platform.openai.com/account/api-keys
 `<pip install gradio>`
 
 
-#Run
+# Run
 *1* VSCode >> Run Python File (right top)
 *2* local access http://127.0.0.1:7860/ in your browser 
     public access as below picture show. 
