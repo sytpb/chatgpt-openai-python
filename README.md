@@ -42,5 +42,3 @@ https://platform.openai.com/account/api-keys
 ![image](https://user-images.githubusercontent.com/12178686/231936265-7c02c9d3-fc30-4960-8ca9-e97c1ce14188.png)
 
 
-
-
